@@ -51,7 +51,7 @@ Thank you for visiting, and don't forget to stars ⭐ the repository if you find
 - [Mamba: Linear-time sequence modeling with selective state spaces](#)
 - [Locating and Editing Factual Associations in Mamba](#)
 - [MambaMixer: Efficient Selective State Space Models with Dual Token and Channel Selection](#)
-- [Jamba: A Hybrid Transformer-Mamba Language Model (hybrid)](#)
+- [Jamba: A Hybrid Transformer-Mamba Language Model](#)
 - [Incorporating Exponential Smoothing into MLP: A Simple but Effective Sequence Model](#)
 - [PlainMamba: Improving Non-Hierarchical Mamba in Visual Recognition](#)
 - [Understanding Robustness of Visual State Space Models for Image Classification](#)
