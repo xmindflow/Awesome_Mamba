@@ -1,6 +1,14 @@
+# <p align=center>`Awesome Mamba`</p> # 
+
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/your-github-username/awesome-mamba-architecture)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+
+:fire::fire: This is a curated collection of groundbreaking research papers and articles on Mamba Architecture in various domains like visual recognition, speech processing, and more. :fire::fire:
+
+
 # Welcome to the Mamba Architecture Survey Repository! 🌟
 
-🔍 This repository is your go-to resource for the cutting-edge Mamba architecture, a fascinating area of research that bridges the gap between theory and practice in computer science. Here, we explore the intricate world of Mamba architecture through a comprehensive collection of research papers, each shedding light on different facets of this versatile framework.
+🔍 Here, we explore the intricate world of Mamba architecture through a comprehensive collection of research papers, each shedding light on different facets of this versatile framework.
 
 ### What is Mamba Architecture? 🤔
 Mamba architecture is a pioneering framework in deep learnig, known for its selective state spaces and efficiency in processing complex data structures. It stands at the forefront of innovation, pushing the boundaries of what's possible in sequence modeling, image processing, speech recognition, and much more.
