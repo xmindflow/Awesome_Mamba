@@ -79,7 +79,7 @@ Thank you for visiting, and don't forget to stars ⭐ the repository if you find
 - [Dual-path Mamba: Short and Long-term Bidirectional Selective Structured State Space Models for Speech Separation](https://arxiv.org/abs/2403.18257v1) [[Github](https://github.com/xi-j/Mamba-TasNet)]
 
 ## Video Processing
-- [SpikeMba: Multi-Modal Spiking Saliency Mamba for Temporal Video Grounding](https://arxiv.org/abs/2404.01174v1) [Github]
+- [SpikeMba: Multi-Modal Spiking Saliency Mamba for Temporal Video Grounding](https://arxiv.org/abs/2404.01174v1)
 - [Video mamba suite: State space model as a versatile alternative for video understanding](https://arxiv.org/abs/2403.09626v1) [[Github](https://github.com/opengvlab/video-mamba-suite)]
 - [SSM Meets Video Diffusion Models: Efficient Video Generation with Structured State Spaces](https://arxiv.org/abs/2403.07711v3) [[Github](https://github.com/shim0114/ssm-meets-video-diffusion-models)]
 - [Videomamba: State space model for efficient video understanding](https://arxiv.org/abs/2403.06977) [[Github](https://github.com/OpenGVLab/VideoMamba)]
