@@ -148,11 +148,11 @@ Thank you for visiting, and don't forget to stars ⭐ the repository if you find
 - [Graph-mamba: Towards long-range graph sequence modeling with selective state spaces](#)
 
 ## Point Cloud
-- [Point mamba: A novel point cloud backbone based on state space model with octree-based ordering strategy](#)
-- [Point Could Mamba: Point Cloud Learning via State Space Model](#)
-- [PointMamba: A Simple State Space Model for Point Cloud Analysis](#)
+- [Point mamba: A novel point cloud backbone based on state space model with octree-based ordering strategy](https://arxiv.org/abs/2403.06467v2) [[Github](https://github.com/irmvlab/point-mamba)]
+- [Point Could Mamba: Point Cloud Learning via State Space Model](https://arxiv.org/abs/2403.00762v2) [[Github](https://github.com/zhang-tao-whu/pcm)]
+- [PointMamba: A Simple State Space Model for Point Cloud Analysis](https://arxiv.org/abs/2402.10739v3) [[Github](https://github.com/lmd0311/pointmamba)]
 
 ## Tabular Data
-- [MambaTab: A Simple Yet Effective Approach for Handling Tabular Data](#)
+- [MambaTab: A Simple Yet Effective Approach for Handling Tabular Data](https://arxiv.org/abs/2401.08867v1)
 
 
