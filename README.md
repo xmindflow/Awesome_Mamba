@@ -52,40 +52,40 @@ Thank you for visiting, and don't forget to stars ⭐ the repository if you find
 - [Mamba: Linear-time sequence modeling with selective state spaces](https://arxiv.org/abs/2312.00752) [[Github](https://github.com/state-spaces/mamba)]
 - [Locating and Editing Factual Associations in Mamba](https://www.arxiv.org/abs/2404.03646) [[Github](https://github.com/arnab-api/romba)]
 - [MambaMixer: Efficient Selective State Space Models with Dual Token and Channel Selection](https://arxiv.org/abs/2403.19888) [[Github](https://github.com/MambaMixer/M2)]
-- [Jamba: A Hybrid Transformer-Mamba Language Model](https://arxiv.org/abs/2403.19887v1) [[Github]]
+- [Jamba: A Hybrid Transformer-Mamba Language Model](https://arxiv.org/abs/2403.19887v1) [Github]
 - [Incorporating Exponential Smoothing into MLP: A Simple but Effective Sequence Model](https://arxiv.org/abs/2403.17445v1) [[Github](https://github.com/pkuai-lingroup/etsmlp)]
 - [PlainMamba: Improving Non-Hierarchical Mamba in Visual Recognition](https://arxiv.org/abs/2403.17695v1) [[Github](https://github.com/chenhongyiyang/plainmamba)]
 - [Understanding Robustness of Visual State Space Models for Image Classification](https://arxiv.org/abs/2403.10935v1) [[Github]()]
 - [Efficientvmamba: Atrous selective scan for light weight visual mamba](https://arxiv.org/abs/2403.09977v1) [[Github](https://github.com/terrypei/efficientvmamba)]
 - [Localmamba: Visual state space model with windowed selective scan](https://arxiv.org/abs/2403.09338v1) [[Github](https://github.com/hunto/localmamba)]
 - [Mamba4Rec: Towards Efficient Sequential Recommendation with Selective State Space Models](https://arxiv.org/abs/2403.03900v1) [[Github](https://github.com/chengkai-liu/mamba4rec)]
-- [The hidden attention of mamba models](https://arxiv.org/abs/2403.01590v2) [[Github](https://github.com/ameenali/hiddenmambaattn)]
-- [Learning method for S4 with Diagonal State Space Layers using Balanced Truncation](https://arxiv.org/abs/2402.15993v2) [[Github]()]
+- [The hidden attention of mamba models](https://arxiv.org/abs/2403.01590v2) [[Github](https://github.com/ameenali/hiddenmambaattn)] 
+- [Learning method for S4 with Diagonal State Space Layers using Balanced Truncation](https://arxiv.org/abs/2402.15993v2) [Github]
 - [Scalable Diffusion Models with State Space Backbone](https://arxiv.org/abs/2402.05608v3) [[Github](https://github.com/feizc/dis)]
 - [Mamba-unet: Unet-like pure visual mamba for medical image segmentation](https://arxiv.org/abs/2402.05079v2) [[Github](https://github.com/ziyangwang007/mamba-unet)]
-- [Mambabyte: Token-free selective state space model](https://arxiv.org/abs/2401.13660v2)
+- [Mambabyte: Token-free selective state space model](https://arxiv.org/abs/2401.13660v2) [Github]
 - [Vmamba: Visual state space model](https://arxiv.org/abs/2401.10166v1) [[Github](https://github.com/mzeromiko/vmamba)]
 - [Vision mamba: Efficient visual representation learning with bidirectional state space model](https://arxiv.org/abs/2401.09417v2) [[Github](https://github.com/hustvl/vim)]
 
 ## Remote Sensing
-- [ChangeMamba: Remote Sensing Change Detection with Spatio-Temporal State Space Model](#)
-- [RS-Mamba for Large Remote Sensing Image Dense Prediction](#)
-- [RS3Mamba: Visual State Space Model for Remote Sensing Images Semantic Segmentation](#)
-- [HSIMamba: Hyperpsectral Imaging Efficient Feature Learning with Bidirectional State Space for Classification](#)
-- [Rsmamba: Remote sensing image classification with state space model](#)
+- [ChangeMamba: Remote Sensing Change Detection with Spatio-Temporal State Space Model](https://arxiv.org/abs/2404.03425v1) [[Github](https://github.com/chenhongruixuan/mambacd)]
+- [RS-Mamba for Large Remote Sensing Image Dense Prediction](https://arxiv.org/abs/2404.02668v1) [[Github](https://github.com/walking-shadow/Official_Remote_Sensing_Mamba)]
+- [RS3Mamba: Visual State Space Model for Remote Sensing Images Semantic Segmentation](https://arxiv.org/abs/2404.02457v1) [[Github](https://github.com/sstary/ssrs)]
+- [HSIMamba: Hyperpsectral Imaging Efficient Feature Learning with Bidirectional State Space for Classification](https://arxiv.org/abs/2404.00272) [[Github](https://github.com/Judyxyang/judyxyang/blob/master/HSi_UH2013_P7_AB_VIM_V3_6_0330.ipynb)]
+- [Rsmamba: Remote sensing image classification with state space model](https://arxiv.org/abs/2403.19654) [[Github](https://github.com/KyanChen/RSMamba)]
 
 ## Speech Processing
-- [SPMamba: State-space model is all you need in speech separation](#)
-- [Dual-path Mamba: Short and Long-term Bidirectional Selective Structured State Space Models for Speech Separation](#)
+- [SPMamba: State-space model is all you need in speech separation](https://arxiv.org/abs/2404.02063) [[Github](https://github.com/JusperLee/SPMamba)]
+- [Dual-path Mamba: Short and Long-term Bidirectional Selective Structured State Space Models for Speech Separation](https://arxiv.org/abs/2403.18257v1) [[Github](https://github.com/xi-j/Mamba-TasNet)]
 
 ## Video Processing
-- [SpikeMba: Multi-Modal Spiking Saliency Mamba for Temporal Video Grounding](#)
-- [Video mamba suite: State space model as a versatile alternative for video understanding](#)
-- [SSM Meets Video Diffusion Models: Efficient Video Generation with Structured State Spaces](#)
-- [Videomamba: State space model for efficient video understanding](#)
+- [SpikeMba: Multi-Modal Spiking Saliency Mamba for Temporal Video Grounding](https://arxiv.org/abs/2404.01174v1) [Github]
+- [Video mamba suite: State space model as a versatile alternative for video understanding](https://arxiv.org/abs/2403.09626v1) [[Github](https://github.com/opengvlab/video-mamba-suite)]
+- [SSM Meets Video Diffusion Models: Efficient Video Generation with Structured State Spaces](https://arxiv.org/abs/2403.07711v3) [[Github](https://github.com/shim0114/ssm-meets-video-diffusion-models)]
+- [Videomamba: State space model for efficient video understanding](https://arxiv.org/abs/2403.06977) [[Github](https://github.com/OpenGVLab/VideoMamba)]
 
 ## Activity Recognition
-- [HARMamba: Efficient Wearable Sensor Human Activity Recognition Based on Bidirectional Selective SSM](#)
+- [HARMamba: Efficient Wearable Sensor Human Activity Recognition Based on Bidirectional Selective SSM](https://arxiv.org/abs/2403.20183v1) [Github]
 
 ## Image Enhancement
 - [Aggregating Local and Global Features via Selective State Spaces Model for Efficient Image Deblurring](#)
