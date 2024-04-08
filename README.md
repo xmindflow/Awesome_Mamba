@@ -48,12 +48,11 @@ Thank you for visiting, and don't forget to stars ⭐ the repository if you find
 - [Tabular Data](#tabular-data)
 
 ## Architecture Redesign
-**Mamba: Linear-time sequence modeling with selective state spaces** [[Paper](https://arxiv.org/abs/2306.04139)] [[Github](https://github.com/state-spaces/mamba)]
 
 - [Mamba: Linear-time sequence modeling with selective state spaces](https://arxiv.org/abs/2312.00752) [[Github](https://github.com/state-spaces/mamba)]
 - [Locating and Editing Factual Associations in Mamba](https://www.arxiv.org/abs/2404.03646) [[Github](https://github.com/arnab-api/romba)]
 - [MambaMixer: Efficient Selective State Space Models with Dual Token and Channel Selection](https://arxiv.org/abs/2403.19888) [[Github](https://github.com/MambaMixer/M2)]
-- [Jamba: A Hybrid Transformer-Mamba Language Model](https://arxiv.org/abs/2403.19887v1) [[Github]()]
+- [Jamba: A Hybrid Transformer-Mamba Language Model](https://arxiv.org/abs/2403.19887v1) [[Github]]
 - [Incorporating Exponential Smoothing into MLP: A Simple but Effective Sequence Model](https://arxiv.org/abs/2403.17445v1) [[Github](https://github.com/pkuai-lingroup/etsmlp)]
 - [PlainMamba: Improving Non-Hierarchical Mamba in Visual Recognition](https://arxiv.org/abs/2403.17695v1) [[Github](https://github.com/chenhongyiyang/plainmamba)]
 - [Understanding Robustness of Visual State Space Models for Image Classification](https://arxiv.org/abs/2403.10935v1) [[Github]()]
@@ -61,12 +60,12 @@ Thank you for visiting, and don't forget to stars ⭐ the repository if you find
 - [Localmamba: Visual state space model with windowed selective scan](https://arxiv.org/abs/2403.09338v1) [[Github](https://github.com/hunto/localmamba)]
 - [Mamba4Rec: Towards Efficient Sequential Recommendation with Selective State Space Models](https://arxiv.org/abs/2403.03900v1) [[Github](https://github.com/chengkai-liu/mamba4rec)]
 - [The hidden attention of mamba models](https://arxiv.org/abs/2403.01590v2) [[Github](https://github.com/ameenali/hiddenmambaattn)]
-- [Learning method for S4 with Diagonal State Space Layers using Balanced Truncation](#)
-- [Scalable Diffusion Models with State Space Backbone](#)
-- [Mamba-unet: Unet-like pure visual mamba for medical image segmentation](#)
-- [Mambabyte: Token-free selective state space model](#)
-- [Vmamba: Visual state space model](#)
-- [Vision mamba: Efficient visual representation learning with bidirectional state space model](#)
+- [Learning method for S4 with Diagonal State Space Layers using Balanced Truncation](https://arxiv.org/abs/2402.15993v2) [[Github]()]
+- [Scalable Diffusion Models with State Space Backbone](https://arxiv.org/abs/2402.05608v3) [[Github](https://github.com/feizc/dis)]
+- [Mamba-unet: Unet-like pure visual mamba for medical image segmentation](https://arxiv.org/abs/2402.05079v2) [[Github](https://github.com/ziyangwang007/mamba-unet)]
+- [Mambabyte: Token-free selective state space model](https://arxiv.org/abs/2401.13660v2)
+- [Vmamba: Visual state space model](https://arxiv.org/abs/2401.10166v1) [[Github](https://github.com/mzeromiko/vmamba)]
+- [Vision mamba: Efficient visual representation learning with bidirectional state space model](https://arxiv.org/abs/2401.09417v2) [[Github](https://github.com/hustvl/vim)]
 
 ## Remote Sensing
 - [ChangeMamba: Remote Sensing Change Detection with Spatio-Temporal State Space Model](#)
