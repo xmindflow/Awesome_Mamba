@@ -48,6 +48,8 @@ Thank you for visiting, and don't forget to stars ⭐ the repository if you find
 - [Tabular Data](#tabular-data)
 
 ## Architecture Redesign
+**Mamba: Linear-time sequence modeling with selective state spaces** [[Paper](https://arxiv.org/abs/2306.04139)] [[Github](https://github.com/state-spaces/mamba)]
+
 - [Mamba: Linear-time sequence modeling with selective state spaces](#)
 - [Locating and Editing Factual Associations in Mamba](#)
 - [MambaMixer: Efficient Selective State Space Models with Dual Token and Channel Selection](#)
