@@ -11,7 +11,7 @@
 🔍 Here, we explore the intricate world of Mamba architecture through a comprehensive collection of research papers, each shedding light on different facets of this versatile framework.
 
 ### What is Mamba Architecture? 🤔
-Mamba architecture is a pioneering framework in deep learnig, known for its selective state spaces and efficiency in processing complex data structures. It stands at the forefront of innovation, pushing the boundaries of what's possible in sequence modeling, image processing, speech recognition, and much more.
+Mamba architecture is a pioneering framework in deep learning, known for its selective state spaces and efficiency in processing complex data structures. It stands at the forefront of innovation, pushing the boundaries of what's possible in sequence modelling, image processing, speech recognition, and much more.
 
 ### Why This Repository? 🌈
 - **Curated Content:** Each paper has been carefully selected to ensure you have access to high-quality research.
@@ -38,6 +38,7 @@ Thank you for visiting, and don't forget to stars ⭐ the repository if you find
 - [Activity Recognition](#activity-recognition)
 - [Image Enhancement](#image-enhancement)
 - [Medical Imaging](#medical-imaging)
+- [Image Segmentation](#image-segmentation)
 - [Reinforcement Learning](#reinforcement-learning)
 - [Natural Language Processing](#natural-language-processing)
 - [3D Recognition](#3d-recognition)
@@ -71,7 +72,7 @@ Thank you for visiting, and don't forget to stars ⭐ the repository if you find
 - [ChangeMamba: Remote Sensing Change Detection with Spatio-Temporal State Space Model](https://arxiv.org/abs/2404.03425v1) [[Github](https://github.com/chenhongruixuan/mambacd)]
 - [RS-Mamba for Large Remote Sensing Image Dense Prediction](https://arxiv.org/abs/2404.02668v1) [[Github](https://github.com/walking-shadow/Official_Remote_Sensing_Mamba)]
 - [RS3Mamba: Visual State Space Model for Remote Sensing Images Semantic Segmentation](https://arxiv.org/abs/2404.02457v1) [[Github](https://github.com/sstary/ssrs)]
-- [HSIMamba: Hyperpsectral Imaging Efficient Feature Learning with Bidirectional State Space for Classification](https://arxiv.org/abs/2404.00272) [[Github](https://github.com/Judyxyang/judyxyang/blob/master/HSi_UH2013_P7_AB_VIM_V3_6_0330.ipynb)]
+- [HSIMamba: Hyperspectral Imaging Efficient Feature Learning with Bidirectional State Space for Classification](https://arxiv.org/abs/2404.00272) [[Github](https://github.com/Judyxyang/judyxyang/blob/master/HSi_UH2013_P7_AB_VIM_V3_6_0330.ipynb)]
 - [Rsmamba: Remote sensing image classification with state space model](https://arxiv.org/abs/2403.19654) [[Github](https://github.com/KyanChen/RSMamba)]
 
 ## Speech Processing
@@ -119,6 +120,9 @@ Thank you for visiting, and don't forget to stars ⭐ the repository if you find
 - [Vivim: a video vision mamba for medical video object segmentation](https://arxiv.org/abs/2401.14168v3) [[Github](https://github.com/scott-yjyang/vivim)]
 - [Segmamba: Long-range sequential modeling mamba for 3d medical image segmentation](https://arxiv.org/abs/2401.13560v3) [[Github](https://github.com/ge-xing/segmamba)]
 - [U-mamba: Enhancing long-range dependency for biomedical image segmentation](https://arxiv.org/abs/2401.04722v1) [[Github](https://github.com/bowang-lab/U-Mamba)]
+
+## Image Segmentation]
+- [Sigma: Siamese Mamba Network for Multi-Modal Semantic Segmentation](https://arxiv.org/abs/2404.04256) [[Github](https://github.com/zifuwan/Sigma)]
 
 ## Reinforcement Learning
 - [Decision Mamba: Reinforcement Learning via Sequence Modeling with Selective State Spaces](https://arxiv.org/abs/2403.19925v1) [[Github](https://github.com/toshihiro-ota/decision-mamba)]
