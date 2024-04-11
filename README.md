@@ -149,7 +149,7 @@ Thank you for visiting, and don't forget to stars ⭐ the repository if you find
 - [nnMamba: 3D Biomedical Image Segmentation, Classification and Landmark Detection with State Space Model](https://arxiv.org/abs/2402.03526)[[Github](https://github.com/lhaof/nnMamba)]
 - [MambaMIR: An Arbitrary-Masked Mamba for Joint Medical Image Reconstruction and Uncertainty Estimation](https://arxiv.org/abs/2402.18451)[[Github](https://github.com/ayanglab/MambaMIR)]
 
-## Image Segmentation]
+## Image Segmentation
 - [Sigma: Siamese Mamba Network for Multi-Modal Semantic Segmentation](https://arxiv.org/abs/2404.04256) [[Github](https://github.com/zifuwan/Sigma)]
 
 ## Reinforcement Learning
