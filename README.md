@@ -30,7 +30,7 @@ Thank you for visiting, and don't forget to stars ⭐ the repository if you find
 
 
 ## Table of Contents
-
+- [Preliminaries and State Space Models](#preliminaries-and-state-space-models)
 - [Architecture Redesign](#architecture-redesign)
 - [Remote Sensing](#remote-sensing)
 - [Speech Processing](#speech-processing)
@@ -47,13 +47,31 @@ Thank you for visiting, and don't forget to stars ⭐ the repository if you find
 - [GNN](#gnn)
 - [Point Cloud](#point-cloud)
 - [Tabular Data](#tabular-data)
+  
+## Preliminaries and State Space Models
 
+- [HiPPO: Recurrent Memory with Optimal Polynomial Projections](https://arxiv.org/abs/2008.07669) [[Github](https://github.com/HazyResearch/hippo-code)]
+- [S4: Efficiently Modeling Long Sequences with Structured State Spaces](https://arxiv.org/abs/2111.00396v3) [[Github](https://github.com/state-spaces/s4)]
+- [H3: Hungry Hungry Hippos: Toward Language Modeling with State Space Models](https://arxiv.org/abs/2212.14052) [[Github](https://github.com/HazyResearch/H3)]
+- [LOCOST: State-Space Models for Long Document Abstractive Summarization](https://arxiv.org/abs/2401.17919) [[Github](https://github.com/flbbb/locost-summarization)]
+- [Theoretical Foundations of Deep Selective State-Space Models](#https://arxiv.org/pdf/2402.19047.pdf)
+- [S4++: Elevating Long Sequence Modeling with State Memory Reply](https://openreview.net/forum?id=bdnw4qjfH9)
+- [Hieros: Hierarchical Imagination on Structured State Space Sequence World Models](https://openreview.net/forum?id=5j6wtOO6Fk)
+- [State Space Models as Foundation Models: A Control Theoretic Overview](https://arxiv.org/abs/2403.16899)
+- [Selective Structured State-Spaces for Long-Form Video Understanding](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Selective_Structured_State-Spaces_for_Long-Form_Video_Understanding_CVPR_2023_paper.pdf)
+- [Retentive Network: A Successor to Transformer for Large Language Models](https://arxiv.org/abs/2307.08621)[[Github](https://github.com/microsoft/unilm/tree/master/retnet)]
+- [Convolutional State Space Models for Long-Range Spatiotemporal Modeling](https://arxiv.org/abs/2310.19694)[[Github](https://github.com/NVlabs/ConvSSM)]
+- [Laughing Hyena Distillery: Extracting Compact Recurrences From Convolutions](https://arxiv.org/abs/2310.18780)[[Github](https://github.com/togethercomputer/stripedhyena)]
+- [Resurrecting Recurrent Neural Networks for Long Sequences](https://icml.cc/virtual/2023/oral/25438)
+- [Hyena Hierarchy: Towards Larger Convolutional Language Models](https://arxiv.org/pdf/2302.10866v3.pdf)[[Github](https://github.com/hazyresearch/safari)]
+  
 ## Architecture Redesign
 
 - [Mamba: Linear-time sequence modeling with selective state spaces](https://arxiv.org/abs/2312.00752) [[Github](https://github.com/state-spaces/mamba)]
 - [Locating and Editing Factual Associations in Mamba](https://www.arxiv.org/abs/2404.03646) [[Github](https://github.com/arnab-api/romba)]
 - [MambaMixer: Efficient Selective State Space Models with Dual Token and Channel Selection](https://arxiv.org/abs/2403.19888) [[Github](https://github.com/MambaMixer/M2)]
 - [Jamba: A Hybrid Transformer-Mamba Language Model](https://arxiv.org/abs/2403.19887v1)
+- [Mamba-ND: Selective State Space Modeling for Multi-Dimensional Data](https://arxiv.org/abs/2402.05892)[[Github](https://github.com/jacklishufan/Mamba-ND)]
 - [Incorporating Exponential Smoothing into MLP: A Simple but Effective Sequence Model](https://arxiv.org/abs/2403.17445v1) [[Github](https://github.com/pkuai-lingroup/etsmlp)]
 - [PlainMamba: Improving Non-Hierarchical Mamba in Visual Recognition](https://arxiv.org/abs/2403.17695v1) [[Github](https://github.com/chenhongyiyang/plainmamba)]
 - [Understanding Robustness of Visual State Space Models for Image Classification](https://arxiv.org/abs/2403.10935v1)
@@ -62,7 +80,10 @@ Thank you for visiting, and don't forget to stars ⭐ the repository if you find
 - [Mamba4Rec: Towards Efficient Sequential Recommendation with Selective State Space Models](https://arxiv.org/abs/2403.03900v1) [[Github](https://github.com/chengkai-liu/mamba4rec)]
 - [The hidden attention of mamba models](https://arxiv.org/abs/2403.01590v2) [[Github](https://github.com/ameenali/hiddenmambaattn)] 
 - [Learning method for S4 with Diagonal State Space Layers using Balanced Truncation](https://arxiv.org/abs/2402.15993v2)
+- [BlackMamba: Mixture of Experts for State-Space Models](https://arxiv.org/abs/2402.01771)[[Github](https://github.com/Zyphra/BlackMamba)]
 - [Scalable Diffusion Models with State Space Backbone](https://arxiv.org/abs/2402.05608v3) [[Github](https://github.com/feizc/dis)]
+- [ZigMa: Zigzag Mamba Diffusion Model](https://arxiv.org/abs/2403.13802)[[Github](https://taohu.me/zigma/)]
+- [Spectral State Space Models](https://arxiv.org/abs/2312.06837v3)
 - [Mamba-unet: Unet-like pure visual mamba for medical image segmentation](https://arxiv.org/abs/2402.05079v2) [[Github](https://github.com/ziyangwang007/mamba-unet)]
 - [Mambabyte: Token-free selective state space model](https://arxiv.org/abs/2401.13660v2)
 - [Vmamba: Visual state space model](https://arxiv.org/abs/2401.10166v1) [[Github](https://github.com/mzeromiko/vmamba)]
@@ -74,6 +95,8 @@ Thank you for visiting, and don't forget to stars ⭐ the repository if you find
 - [RS3Mamba: Visual State Space Model for Remote Sensing Images Semantic Segmentation](https://arxiv.org/abs/2404.02457v1) [[Github](https://github.com/sstary/ssrs)]
 - [HSIMamba: Hyperspectral Imaging Efficient Feature Learning with Bidirectional State Space for Classification](https://arxiv.org/abs/2404.00272) [[Github](https://github.com/Judyxyang/judyxyang/blob/master/HSi_UH2013_P7_AB_VIM_V3_6_0330.ipynb)]
 - [Rsmamba: Remote sensing image classification with state space model](https://arxiv.org/abs/2403.19654) [[Github](https://github.com/KyanChen/RSMamba)]
+- [HSIMamba: Hyperpsectral Imaging Efficient Feature Learning with Bidirectional State Space for Classification](https://arxiv.org/abs/2404.00272) [[Github](https://github.com/Judyxyang/judyxyang/blob/master/HSi_UH2013_P7_AB_VIM_V3_6_0330.ipynb)]
+- [Samba: Semantic Segmentation of Remotely Sensed Images with State Space Model](https://arxiv.org/abs/2404.01705) [[Github](https://github.com/zhuqinfeng1999/Samba)]
 
 ## Speech Processing
 - [SPMamba: State-space model is all you need in speech separation](https://arxiv.org/abs/2404.02063) [[Github](https://github.com/JusperLee/SPMamba)]
@@ -87,6 +110,7 @@ Thank you for visiting, and don't forget to stars ⭐ the repository if you find
 
 ## Activity Recognition
 - [HARMamba: Efficient Wearable Sensor Human Activity Recognition Based on Bidirectional Selective SSM](https://arxiv.org/abs/2403.20183v1)
+- [VMRNN: Integrating Vision Mamba and LSTM for Efficient and Accurate Spatiotemporal Forecasting](https://arxiv.org/abs/2403.16536)[[Github](https://github.com/yyyujintang/VMRNN-PyTorch)]
 
 ## Image Enhancement
 - [Aggregating Local and Global Features via Selective State Spaces Model for Efficient Image Deblurring](https://arxiv.org/abs/2403.20106)
@@ -119,13 +143,18 @@ Thank you for visiting, and don't forget to stars ⭐ the repository if you find
 - [Vm-unet: Vision mamba unet for medical image segmentation](https://arxiv.org/abs/2402.02491v1)[[Github](https://github.com/jcruan519/vm-unet)]
 - [Vivim: a video vision mamba for medical video object segmentation](https://arxiv.org/abs/2401.14168v3) [[Github](https://github.com/scott-yjyang/vivim)]
 - [Segmamba: Long-range sequential modeling mamba for 3d medical image segmentation](https://arxiv.org/abs/2401.13560v3) [[Github](https://github.com/ge-xing/segmamba)]
+- [T-Mamba: Frequency-Enhanced Gated Long-Range Dependency for Tooth 3D CBCT Segmentation](https://arxiv.org/abs/2404.01065) [[Github](https://github.com/isbrycee/T-Mamba)]
 - [U-mamba: Enhancing long-range dependency for biomedical image segmentation](https://arxiv.org/abs/2401.04722v1) [[Github](https://github.com/bowang-lab/U-Mamba)]
+- [MambaMorph: a Mamba-based Backbone with Contrastive Feature Learning for Deformable MR-CT Registration](https://arxiv.org/pdf/2401.13934.pdf)[[Github](https://github.com/Guo-Stone/MambaMorph)]
+- [nnMamba: 3D Biomedical Image Segmentation, Classification and Landmark Detection with State Space Model](https://arxiv.org/abs/2402.03526)[[Github](https://github.com/lhaof/nnMamba)]
+- [MambaMIR: An Arbitrary-Masked Mamba for Joint Medical Image Reconstruction and Uncertainty Estimation](https://arxiv.org/abs/2402.18451)[[Github](https://github.com/ayanglab/MambaMIR)]
 
 ## Image Segmentation]
 - [Sigma: Siamese Mamba Network for Multi-Modal Semantic Segmentation](https://arxiv.org/abs/2404.04256) [[Github](https://github.com/zifuwan/Sigma)]
 
 ## Reinforcement Learning
 - [Decision Mamba: Reinforcement Learning via Sequence Modeling with Selective State Spaces](https://arxiv.org/abs/2403.19925v1) [[Github](https://github.com/toshihiro-ota/decision-mamba)]
+- [MAMBA: an Effective World Model Approach for Meta-Reinforcement Learning](https://arxiv.org/abs/2403.09859) [[Github](https://github.com/zoharri/mamba)]
 
 ## Natural Language Processing
 - [RankMamba Benchmarking Mamba's Document Ranking Performance in the Era of Transformers](https://arxiv.org/abs/2403.18276v1) [[Github](https://github.com/zhichaoxu-shufe/rankmamba)]
@@ -139,6 +168,7 @@ Thank you for visiting, and don't forget to stars ⭐ the repository if you find
 ## Multi-Modal Understanding
 - [ReMamber: Referring Image Segmentation with Mamba Twister](https://arxiv.org/abs/2403.17839v1)
 - [VL-Mamba: Exploring State Space Models for Multimodal Learning](https://arxiv.org/abs/2403.13600v1)
+- [Cobra: Extending Mamba to Multi-Modal Large Language Model for Efficient Inference](https://arxiv.org/abs/2403.14520)[[Github](https://github.com/h-zhao1997/cobra)]
 
 ## Time Series
 - [SiMBA: Simplified Mamba-Based Architecture for Vision and Multivariate Time series](https://arxiv.org/abs/2403.15360v1) [[Github](https://github.com/badripatro/simba)]
@@ -150,11 +180,14 @@ Thank you for visiting, and don't forget to stars ⭐ the repository if you find
 - [STG-Mamba: Spatial-Temporal Graph Learning via Selective State Space Model](https://arxiv.org/abs/2403.12418v2)
 - [Graph Mamba: Towards Learning on Graphs with State Space Models](https://arxiv.org/abs/2402.08678v2) [[Github](https://github.com/graphmamba/gmn)]
 - [Graph-Mamba: Towards long-range graph sequence modeling with selective state spaces](https://arxiv.org/abs/2402.00789v1) [[Github](https://github.com/bowang-lab/Graph-Mamba)]
+- [Recurrent Distance Filtering for Graph Representation Learning](https://arxiv.org/abs/2312.01538)[[Github](https://github.com/skeletondyh/GRED)]
 
 ## Point Cloud
 - [Point mamba: A novel point cloud backbone based on state space model with octree-based ordering strategy](https://arxiv.org/abs/2403.06467v2) [[Github](https://github.com/irmvlab/point-mamba)]
 - [Point Could Mamba: Point Cloud Learning via State Space Model](https://arxiv.org/abs/2403.00762v2) [[Github](https://github.com/zhang-tao-whu/pcm)]
 - [PointMamba: A Simple State Space Model for Point Cloud Analysis](https://arxiv.org/abs/2402.10739v3) [[Github](https://github.com/lmd0311/pointmamba)]
+- [3DMambaIPF: A State Space Model for Iterative Point Cloud Filtering via Differentiable Rendering](https://arxiv.org/abs/2404.05522)
+- [3DMambaComplete: Exploring Structured State Space Model for Point Cloud Completion](https://arxiv.org/abs/2404.07106)
 
 ## Tabular Data
 - [MambaTab: A Simple Yet Effective Approach for Handling Tabular Data](https://arxiv.org/abs/2401.08867v1)
