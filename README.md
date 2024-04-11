@@ -54,11 +54,11 @@ Thank you for visiting, and don't forget to stars ⭐ the repository if you find
 - [S4: Efficiently Modeling Long Sequences with Structured State Spaces](https://arxiv.org/abs/2111.00396v3) [[Github](https://github.com/state-spaces/s4)]
 - [H3: Hungry Hungry Hippos: Toward Language Modeling with State Space Models](https://arxiv.org/abs/2212.14052) [[Github](https://github.com/HazyResearch/H3)]
 - [LOCOST: State-Space Models for Long Document Abstractive Summarization](https://arxiv.org/abs/2401.17919) [[Github](https://github.com/flbbb/locost-summarization)]
-- [Theoretical Foundations of Deep Selective State-Space Models](#https://arxiv.org/pdf/2402.19047.pdf)
+- [Theoretical Foundations of Deep Selective State-Space Models](https://arxiv.org/abs/2402.19047)
 - [S4++: Elevating Long Sequence Modeling with State Memory Reply](https://openreview.net/forum?id=bdnw4qjfH9)
-- [Hieros: Hierarchical Imagination on Structured State Space Sequence World Models](https://openreview.net/forum?id=5j6wtOO6Fk)
+- [Hieros: Hierarchical Imagination on Structured State Space Sequence World Models](https://openreview.net/forum?id=5j6wtOO6Fk) [[Github](https://github.com/snagnar/hieros)]
 - [State Space Models as Foundation Models: A Control Theoretic Overview](https://arxiv.org/abs/2403.16899)
-- [Selective Structured State-Spaces for Long-Form Video Understanding](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Selective_Structured_State-Spaces_for_Long-Form_Video_Understanding_CVPR_2023_paper.pdf)
+- [Selective Structured State-Spaces for Long-Form Video Understanding](https://arxiv.org/abs/2303.14526)
 - [Retentive Network: A Successor to Transformer for Large Language Models](https://arxiv.org/abs/2307.08621)[[Github](https://github.com/microsoft/unilm/tree/master/retnet)]
 - [Convolutional State Space Models for Long-Range Spatiotemporal Modeling](https://arxiv.org/abs/2310.19694)[[Github](https://github.com/NVlabs/ConvSSM)]
 - [Laughing Hyena Distillery: Extracting Compact Recurrences From Convolutions](https://arxiv.org/abs/2310.18780)[[Github](https://github.com/togethercomputer/stripedhyena)]
