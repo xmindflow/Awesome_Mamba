@@ -81,6 +81,7 @@ Thank you for visiting, and don't forget to stars ⭐ the repository if you find
 - [The hidden attention of mamba models](https://arxiv.org/abs/2403.01590v2) [[Github](https://github.com/ameenali/hiddenmambaattn)] 
 - [Learning method for S4 with Diagonal State Space Layers using Balanced Truncation](https://arxiv.org/abs/2402.15993v2)
 - [BlackMamba: Mixture of Experts for State-Space Models](https://arxiv.org/abs/2402.01771)[[Github](https://github.com/Zyphra/BlackMamba)]
+- [MoE-Mamba: Efficient Selective State Space Models with Mixture of Experts](https://arxiv.org/abs/2401.04081)[[Github](https://github.com/kyegomez/MoE-Mamba)]
 - [Scalable Diffusion Models with State Space Backbone](https://arxiv.org/abs/2402.05608v3) [[Github](https://github.com/feizc/dis)]
 - [ZigMa: Zigzag Mamba Diffusion Model](https://arxiv.org/abs/2403.13802)[[Github](https://taohu.me/zigma/)]
 - [Spectral State Space Models](https://arxiv.org/abs/2312.06837v3)
