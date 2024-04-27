@@ -150,7 +150,6 @@ Thank you for visiting, and don't forget to stars ⭐ the repository if you find
 - [MambaMorph: a Mamba-based Backbone with Contrastive Feature Learning for Deformable MR-CT Registration](https://arxiv.org/pdf/2401.13934.pdf)[[Github](https://github.com/Guo-Stone/MambaMorph)]
 - [nnMamba: 3D Biomedical Image Segmentation, Classification and Landmark Detection with State Space Model](https://arxiv.org/abs/2402.03526)[[Github](https://github.com/lhaof/nnMamba)]
 - [MambaMIR: An Arbitrary-Masked Mamba for Joint Medical Image Reconstruction and Uncertainty Estimation](https://arxiv.org/abs/2402.18451)[[Github](https://github.com/ayanglab/MambaMIR)]
-- [H-vmunet: High-order Vision Mamba UNet for Medical Image Segmentation](https://arxiv.org/abs/2403.13642) [[Github](https://github.com/wurenkai/H-vmunet)]
 - [ViM-UNet: Vision Mamba for Biomedical Segmentation](https://arxiv.org/abs/2404.07705)[[Github](https://github.com/constantinpape/torch-em/blob/main/vimunet.md)]
 
 ## Image Segmentation
