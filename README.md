@@ -150,6 +150,8 @@ Thank you for visiting, and don't forget to stars ⭐ the repository if you find
 - [MambaMorph: a Mamba-based Backbone with Contrastive Feature Learning for Deformable MR-CT Registration](https://arxiv.org/pdf/2401.13934.pdf)[[Github](https://github.com/Guo-Stone/MambaMorph)]
 - [nnMamba: 3D Biomedical Image Segmentation, Classification and Landmark Detection with State Space Model](https://arxiv.org/abs/2402.03526)[[Github](https://github.com/lhaof/nnMamba)]
 - [MambaMIR: An Arbitrary-Masked Mamba for Joint Medical Image Reconstruction and Uncertainty Estimation](https://arxiv.org/abs/2402.18451)[[Github](https://github.com/ayanglab/MambaMIR)]
+- [H-vmunet: High-order Vision Mamba UNet for Medical Image Segmentation](https://arxiv.org/abs/2403.13642) [[Github](https://github.com/wurenkai/H-vmunet)]
+- [ViM-UNet: Vision Mamba for Biomedical Segmentation](https://arxiv.org/abs/2404.07705)[[Github](https://github.com/constantinpape/torch-em/blob/main/vimunet.md)]
 
 ## Image Segmentation
 - [Sigma: Siamese Mamba Network for Multi-Modal Semantic Segmentation](https://arxiv.org/abs/2404.04256) [[Github](https://github.com/zifuwan/Sigma)]
@@ -171,6 +173,10 @@ Thank you for visiting, and don't forget to stars ⭐ the repository if you find
 - [ReMamber: Referring Image Segmentation with Mamba Twister](https://arxiv.org/abs/2403.17839v1)
 - [VL-Mamba: Exploring State Space Models for Multimodal Learning](https://arxiv.org/abs/2403.13600v1)
 - [Cobra: Extending Mamba to Multi-Modal Large Language Model for Efficient Inference](https://arxiv.org/abs/2403.14520)[[Github](https://github.com/h-zhao1997/cobra)]
+- [SurvMamba: State Space Model with Multi-grained Multi-modal
+Interaction for Survival Prediction](https://arxiv.org/abs/2404.08027)
+- [MambaDFuse: A Mamba-based Dual-phase Model forMulti-modality Image Fusion](https://arxiv.org/abs/2404.08406)
+- [APRICOT-Mamba: Acuity Prediction in Intensive Care Unit (ICU): Development and Validation of a Stability, Transitions, and Life-Sustaining Therapies Prediction Model](https://arxiv.org/abs/2311.02026)
 
 ## Time Series
 - [SiMBA: Simplified Mamba-Based Architecture for Vision and Multivariate Time series](https://arxiv.org/abs/2403.15360v1) [[Github](https://github.com/badripatro/simba)]
