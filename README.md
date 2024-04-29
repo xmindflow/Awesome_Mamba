@@ -6,7 +6,7 @@
 :fire::fire: This is a curated collection of groundbreaking research papers and articles on Mamba Architecture in various domains like visual recognition, speech processing, and more. :fire::fire:
 
 
-# Welcome to the Mamba Architecture Survey Repository! 🌟
+# Welcome to the Mamba Architecture Repository! 🌟
 
 🔍 Here, we explore the intricate world of Mamba architecture through a comprehensive collection of research papers, each shedding light on different facets of this versatile framework.
 
