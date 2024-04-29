@@ -189,6 +189,7 @@ Interaction for Survival Prediction](https://arxiv.org/abs/2404.08027)
 - [Graph Mamba: Towards Learning on Graphs with State Space Models](https://arxiv.org/abs/2402.08678v2) [[Github](https://github.com/graphmamba/gmn)]
 - [Graph-Mamba: Towards long-range graph sequence modeling with selective state spaces](https://arxiv.org/abs/2402.00789v1) [[Github](https://github.com/bowang-lab/Graph-Mamba)]
 - [Recurrent Distance Filtering for Graph Representation Learning](https://arxiv.org/abs/2312.01538)[[Github](https://github.com/skeletondyh/GRED)]
+- [Modeling multivariate biosignals with graph neural networks and structured state space models](https://arxiv.org/abs/2211.11176)[[Github](https://github.com/tsy935/graphs4mer)]
 
 ## Point Cloud
 - [Point mamba: A novel point cloud backbone based on state space model with octree-based ordering strategy](https://arxiv.org/abs/2403.06467v2) [[Github](https://github.com/irmvlab/point-mamba)]
