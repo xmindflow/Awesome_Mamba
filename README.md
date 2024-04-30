@@ -30,7 +30,7 @@ Thank you for visiting, and don't forget to stars ⭐ the repository if you find
 
 
 ## Table of Contents
-- [Preliminaries and State Space Models](#preliminaries-and-state-space-models)
+- [Survey Papers](#Surveys)
 - [Architecture Redesign](#architecture-redesign)
 - [Remote Sensing](#remote-sensing)
 - [Speech Processing](#speech-processing)
@@ -47,6 +47,10 @@ Thank you for visiting, and don't forget to stars ⭐ the repository if you find
 - [GNN](#gnn)
 - [Point Cloud](#point-cloud)
 - [Tabular Data](#tabular-data)
+
+
+## Surveys
+
   
 ## Preliminaries and State Space Models
 
