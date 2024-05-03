@@ -189,6 +189,7 @@ Interaction for Survival Prediction](https://arxiv.org/abs/2404.08027)
 - [Is Mamba Effective for Time Series Forecasting?](https://arxiv.org/abs/2403.11144v2) [[Github](https://github.com/wzhwzhwzh0921/s-d-mamba)]
 - [TimeMachine: A Time Series is Worth 4 Mambas for Long-term Forecasting](https://arxiv.org/abs/2403.09898v1) [[Github](https://github.com/atik-ahamed/timemachine)]
 - [MambaStock: Selective state space model for stock prediction](https://arxiv.org/abs/2402.18959v1) [[Github](https://github.com/zshicode/mambastock)]
+- [Bi-Mamba4TS: Bidirectional Mamba for Time Series Forecasting](https://arxiv.org/abs/2404.15772)
 
 ## GNN
 - [STG-Mamba: Spatial-Temporal Graph Learning via Selective State Space Model](https://arxiv.org/abs/2403.12418v2)
