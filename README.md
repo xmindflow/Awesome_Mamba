@@ -53,6 +53,8 @@ Thank you for visiting, and don't forget to stars ⭐ the repository if you find
 - [State Space Model for New-Generation Network Alternative to Transformers: A Survey](https://arxiv.org/abs/2404.09516) [[Github](https://github.com/Event-AHU/Mamba_State_Space_Model_Paper_List)]
 - [A Survey on Visual Mamba](https://arxiv.org/abs/2404.15956)
 - [Mamba-360: Survey of State Space Models as Transformer Alternative for Long Sequence Modelling: Methods, Applications, and Challenges](https://arxiv.org/abs/2404.16112) [[Github](https://github.com/badripatro/mamba360)]
+- [Vision Mamba: A Comprehensive Survey and Taxonomy](https://arxiv.org/abs/2405.04404) [[Github](https://github.com/lx6c78/Vision-Mamba-A-Comprehensive-Survey-and-Taxonomy)]
+- [A Survey on Vision Mamba: Models, Applications and Challenges](https://arxiv.org/abs/2404.18861) [[Github](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models)]
   
 ## Preliminaries and State Space Models
 
@@ -158,7 +160,8 @@ Thank you for visiting, and don't forget to stars ⭐ the repository if you find
 - [nnMamba: 3D Biomedical Image Segmentation, Classification and Landmark Detection with State Space Model](https://arxiv.org/abs/2402.03526)[[Github](https://github.com/lhaof/nnMamba)]
 - [MambaMIR: An Arbitrary-Masked Mamba for Joint Medical Image Reconstruction and Uncertainty Estimation](https://arxiv.org/abs/2402.18451)[[Github](https://github.com/ayanglab/MambaMIR)]
 - [ViM-UNet: Vision Mamba for Biomedical Segmentation](https://arxiv.org/abs/2404.07705)[[Github](https://github.com/constantinpape/torch-em/blob/main/vimunet.md)]
-
+- [VM-DDPM: Vision Mamba Diffusion for Medical Image Synthesis](https://arxiv.org/abs/2405.05667)
+- [HC-Mamba: Vision MAMBA with Hybrid Convolutional Techniques for Medical Image Segmentation](https://arxiv.org/abs/2405.05007)
 ## Image Segmentation
 - [Sigma: Siamese Mamba Network for Multi-Modal Semantic Segmentation](https://arxiv.org/abs/2404.04256) [[Github](https://github.com/zifuwan/Sigma)]
 
