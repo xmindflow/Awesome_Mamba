@@ -212,4 +212,6 @@ Interaction for Survival Prediction](https://arxiv.org/abs/2404.08027)
 ## Tabular Data
 - [MambaTab: A Simple Yet Effective Approach for Handling Tabular Data](https://arxiv.org/abs/2401.08867v1)
 
+## Star History
 
+[![Star History Chart](https://api.star-history.com/svg?repos=xmindflow/Awesome_Mamba&type=Date)](https://star-history.com/#xmindflow/Awesome_Mamba&Date)
