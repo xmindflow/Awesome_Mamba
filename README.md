@@ -133,7 +133,7 @@ Thank you for visiting, and don't forget to stars ⭐ the repository if you find
 - [DiM: Diffusion Mamba for Efficient High-Resolution Image Synthesis](https://arxiv.org/abs/2402.04139v4) [[Github](https://github.com/tyshiwo1/DiM-DiffusionMamba/)]
 
 ## Image-Video-Generation
-- [U-shaped Vision Mamba for Single Image Dehazing](https://arxiv.org/abs/2405.14224) [[Github](https://github.com/zzr-idam/uvm-net)]
+- [DiM: Diffusion Mamba for Efficient High-Resolution Image Synthesis](https://arxiv.org/abs/2405.14224) [[Github](https://github.com/tyshiwo1/DiM-DiffusionMamba/)]
 
 ## Medical Imaging
 - [Vim4Path: Self-Supervised Vision Mamba for Histopathology Images](https://arxiv.org/abs/2404.13222) [[Github](https://github.com/AtlasAnalyticsLab/Vim4Path)]
