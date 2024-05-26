@@ -30,7 +30,7 @@ Thank you for visiting, and don't forget to stars ⭐ the repository if you find
 
 
 ## Table of Contents
-- [Survey Papers](#Surveys)
+- [Survey Papers](#surveys)
 - [Architecture Redesign](#architecture-redesign)
 - [Remote Sensing](#remote-sensing)
 - [Speech Processing](#speech-processing)
@@ -132,7 +132,7 @@ Thank you for visiting, and don't forget to stars ⭐ the repository if you find
 - [Pan-Mamba: Effective pan-sharpening with State Space Model](https://arxiv.org/abs/2402.12192v2) [[Github](https://github.com/alexhe101/pan-mamba)]
 - [DiM: Diffusion Mamba for Efficient High-Resolution Image Synthesis](https://arxiv.org/abs/2402.04139v4) [[Github](https://github.com/tyshiwo1/DiM-DiffusionMamba/)]
 
-## Image & Video Generation
+## Image-Video-Generation
 - [U-shaped Vision Mamba for Single Image Dehazing](https://arxiv.org/abs/2405.14224) [[Github](https://github.com/zzr-idam/uvm-net)]
 
 ## Medical Imaging
