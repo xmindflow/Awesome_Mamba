@@ -130,7 +130,7 @@ Thank you for visiting, and don't forget to stars ⭐ the repository if you find
 - [Activating Wider Areas in Image Super-Resolution](https://arxiv.org/abs/2210.03743v1) [[Github](https://github.com/george-gca/sr-pytorch-lightning)]
 - [MambaIR: A Simple Baseline for Image Restoration with State-Space Model](https://arxiv.org/abs/2402.15648v2) [[Github](https://github.com/csguoh/mambair)]
 - [Pan-Mamba: Effective pan-sharpening with State Space Model](https://arxiv.org/abs/2402.12192v2) [[Github](https://github.com/alexhe101/pan-mamba)]
-- [DiM: Diffusion Mamba for Efficient High-Resolution Image Synthesis](https://arxiv.org/abs/2402.04139v4) [[Github](https://github.com/tyshiwo1/DiM-DiffusionMamba/)]
+- [U-shaped Vision Mamba for Single Image Dehazing](https://arxiv.org/abs/2402.04139v4) [[Github](https://github.com/zzr-idam/uvm-net)]
 
 ## Image-Video-Generation
 - [DiM: Diffusion Mamba for Efficient High-Resolution Image Synthesis](https://arxiv.org/abs/2405.14224) [[Github](https://github.com/tyshiwo1/DiM-DiffusionMamba/)]
