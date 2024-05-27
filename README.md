@@ -51,6 +51,7 @@ Thank you for visiting, and don't forget to stars ⭐ the repository if you find
 
 ## Surveys
 
+- [From Generalization Analysis to Optimization Designs for State Space Models](https://arxiv.org/abs/2405.02670) 
 - [MambaOut: Do We Really Need Mamba for Vision?](https://arxiv.org/abs/2405.07992) [[Github](https://github.com/yuweihao/MambaOut)]
 - [State Space Model for New-Generation Network Alternative to Transformers: A Survey](https://arxiv.org/abs/2404.09516) [[Github](https://github.com/Event-AHU/Mamba_State_Space_Model_Paper_List)]
 - [A Survey on Visual Mamba](https://arxiv.org/abs/2404.15956)
