@@ -185,6 +185,7 @@ Thank you for visiting, and don't forget to stars ⭐ the repository if you find
 - [Motion mamba: Efficient and long sequence motion generation with hierarchical and bidirectional selective ssm](https://arxiv.org/abs/2403.07487v3) [[Github](https://github.com/steve-zeyu-zhang/MotionMamba/)]
 
 ## Multi-Modal Understanding
+- [Meteor: Mamba-based Traversal of Rationale for Large Language and Vision Models](https://arxiv.org/abs/2405.15574)[[Github](https://github.com/ByungKwanLee/Meteor)]
 - [ReMamber: Referring Image Segmentation with Mamba Twister](https://arxiv.org/abs/2403.17839v1)
 - [VL-Mamba: Exploring State Space Models for Multimodal Learning](https://arxiv.org/abs/2403.13600v1)
 - [Cobra: Extending Mamba to Multi-Modal Large Language Model for Efficient Inference](https://arxiv.org/abs/2403.14520)[[Github](https://github.com/h-zhao1997/cobra)]
