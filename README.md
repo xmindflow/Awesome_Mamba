@@ -79,6 +79,7 @@ Thank you for visiting, and don't forget to stars ⭐ the repository if you find
 ## Architecture Redesign
 
 - [Mamba: Linear-time sequence modeling with selective state spaces](https://arxiv.org/abs/2312.00752) [[Github](https://github.com/state-spaces/mamba)]
+- [Transformers are SSMs: Generalized Models and Efficient Algorithms Through Structured State Space Duality](https://arxiv.org/abs/2405.21060) [[Github](https://github.com/state-spaces/mamba)]
 - [Locating and Editing Factual Associations in Mamba](https://www.arxiv.org/abs/2404.03646) [[Github](https://github.com/arnab-api/romba)]
 - [MambaMixer: Efficient Selective State Space Models with Dual Token and Channel Selection](https://arxiv.org/abs/2403.19888) [[Github](https://github.com/MambaMixer/M2)]
 - [Jamba: A Hybrid Transformer-Mamba Language Model](https://arxiv.org/abs/2403.19887v1)
