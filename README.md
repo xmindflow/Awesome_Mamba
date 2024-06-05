@@ -12,7 +12,7 @@
 ```
 
 ## Updates
-- **First release:** November 14, 2022
+- **First release:** June 07, 2024
 
 
 ## Table of Contents
