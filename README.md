@@ -9,14 +9,6 @@
 
 #### Citation
 ```python
-@article{kazerouni2023diffusion,
-  title={Diffusion models in medical imaging: A comprehensive survey},
-  author={Kazerouni, Amirhossein and Aghdam, Ehsan Khodapanah and Heidari, Moein and Azad, Reza and Fayyaz, Mohsen and Hacihaliloglu, Ilker and Merhof, Dorit},
-  journal={Medical Image Analysis},
-  pages={102846},
-  year={2023},
-  publisher={Elsevier}
-}
 ```
 
 ## Updates
