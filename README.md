@@ -5,7 +5,7 @@
 
 :fire::fire: This is a collection of awesome articles about Mamba models in medical imaging:fire::fire:
 
-- Our survey paper on arXiv: [Diffusion Models for Medical Image Analysis: A Comprehensive Survey](https://arxiv.org/abs/2211.07804) :heart:
+- Our survey paper on arXiv: [Computation-Efficient Era: A Comprehensive Survey Of State Space Models In Medical Image Analysis](https://arxiv.org/abs/2211.07804) :heart:
 
 #### Citation
 ```python
