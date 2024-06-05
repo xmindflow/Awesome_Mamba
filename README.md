@@ -1,11 +1,11 @@
-# <p align=center>`Awesome Mamba Models in Medical Imaging`</p> # 
+# <p align=center>`Awesome Mamba`</p> # 
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/amirhossein-kz/Awesome-Diffusion-Models-in-Medical-Imaging) 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-:fire::fire: This is a collection of awesome articles about Mamba models in medical imaging:fire::fire:
+:fire::fire: This is a collection of awesome articles about Mamba models (With a particular emphasis on medical imaging):fire::fire:
 
-- Our survey paper on arXiv: [Computation-Efficient Era: A Comprehensive Survey Of State Space Models In Medical Image Analysis](https://arxiv.org/abs/2211.07804) :heart:
+- Our survey paper on arXiv will be available soon: [Computation-Efficient Era: A Comprehensive Survey Of State Space Models In Medical Image Analysis]() :heart:
 
 #### Citation
 ```python
