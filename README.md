@@ -1,32 +1,26 @@
-# <p align=center>`Awesome Mamba`</p> # 
+# <p align=center>`Awesome Mamba Models in Medical Imaging`</p> # 
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/your-github-username/awesome-mamba-architecture)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/amirhossein-kz/Awesome-Diffusion-Models-in-Medical-Imaging) 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-:fire::fire: This is a curated collection of groundbreaking research papers and articles on Mamba Architecture in various domains like visual recognition, speech processing, and more. :fire::fire:
+:fire::fire: This is a collection of awesome articles about Mamba models in medical imaging:fire::fire:
 
+- Our survey paper on arXiv: [Diffusion Models for Medical Image Analysis: A Comprehensive Survey](https://arxiv.org/abs/2211.07804) :heart:
 
-# Welcome to the Mamba Architecture Repository! 🌟
+#### Citation
+```python
+@article{kazerouni2023diffusion,
+  title={Diffusion models in medical imaging: A comprehensive survey},
+  author={Kazerouni, Amirhossein and Aghdam, Ehsan Khodapanah and Heidari, Moein and Azad, Reza and Fayyaz, Mohsen and Hacihaliloglu, Ilker and Merhof, Dorit},
+  journal={Medical Image Analysis},
+  pages={102846},
+  year={2023},
+  publisher={Elsevier}
+}
+```
 
-🔍 Here, we explore the intricate world of Mamba architecture through a comprehensive collection of research papers, each shedding light on different facets of this versatile framework.
-
-### What is Mamba Architecture? 🤔
-Mamba architecture is a pioneering framework in deep learning, known for its selective state spaces and efficiency in processing complex data structures. It stands at the forefront of innovation, pushing the boundaries of what's possible in sequence modelling, image processing, speech recognition, and much more.
-
-### Why This Repository? 🌈
-- **Curated Content:** Each paper has been carefully selected to ensure you have access to high-quality research.
-- **Organized Access:** We've categorized the papers into sections so you can easily navigate through the vast knowledge base.
-- **Community Driven:** Contributions are welcome! If you have a paper or resource related to Mamba architecture, feel free to add it.
-
-### Contribute 🤝
-We believe in the power of collaboration to drive research forward. If you'd like to contribute to this repository, please feel free to submit a pull request or open an issue. Whether it's adding new papers, improving documentation, or suggesting new categories, your input is invaluable.
-
-### Let's Dive In! 🚀
-Ready to explore? Check out the [Table of Contents](#table-of-contents) to start your journey through the fascinating world of Mamba architecture. Happy exploring!
-
----
-
-Thank you for visiting, and don't forget to stars ⭐ the repository if you find it useful!
+## Updates
+- **First release:** November 14, 2022
 
 
 ## Table of Contents
