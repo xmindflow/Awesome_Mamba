@@ -5,14 +5,22 @@
 
 :fire::fire: This is a collection of awesome articles about Mamba models (With a particular emphasis on medical imaging):fire::fire:
 
-- Our survey paper on arXiv will be available soon: [Computation-Efficient Era: A Comprehensive Survey Of State Space Models In Medical Image Analysis]() :heart:
+- Our survey paper on arXiv: [Computation-Efficient Era: A Comprehensive Survey of State Space Models in Medical Image Analysis](https://arxiv.org/abs/2406.03430) :heart:
 
 #### Citation
 ```python
+@misc{heidari2024computationefficient,
+      title={Computation-Efficient Era: A Comprehensive Survey of State Space Models in Medical Image Analysis}, 
+      author={Moein Heidari and Sina Ghorbani Kolahi and Sanaz Karimijafarbigloo and Bobby Azad and Afshin Bozorgpour and Soheila Hatami and Reza Azad and Ali Diba and Ulas Bagci and Dorit Merhof and Ilker Hacihaliloglu},
+      year={2024},
+      eprint={2406.03430},
+      archivePrefix={arXiv},
+      primaryClass={eess.IV}
+}
 ```
 
 ## Updates
-- **First release:** June 07, 2024
+- **First release:** June 05, 2024
 
 
 ## Table of Contents
