@@ -20,7 +20,7 @@
 ```
 
 ## Updates
-- **First release:** June 05, 2024
+- :sunglasses: **First release:** June 05, 2024
 
 
 ## Table of Contents
