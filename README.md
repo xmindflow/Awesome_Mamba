@@ -163,6 +163,8 @@
 - [ViM-UNet: Vision Mamba for Biomedical Segmentation](https://arxiv.org/abs/2404.07705)[[Github](https://github.com/constantinpape/torch-em/blob/main/vimunet.md)]
 - [VM-DDPM: Vision Mamba Diffusion for Medical Image Synthesis](https://arxiv.org/abs/2405.05667)
 - [HC-Mamba: Vision MAMBA with Hybrid Convolutional Techniques for Medical Image Segmentation](https://arxiv.org/abs/2405.05007)
+- [I2I-Mamba: Multi-modal Medical Image Synthesis via Selective State Space Modeling](https://arxiv.org/abs/2405.14022) [[GitHub](https://github.com/icon-lab/I2I-Mamba)]
+  
 ## Image Segmentation
 - [Sigma: Siamese Mamba Network for Multi-Modal Semantic Segmentation](https://arxiv.org/abs/2404.04256) [[Github](https://github.com/zifuwan/Sigma)]
 
