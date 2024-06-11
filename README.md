@@ -9,13 +9,12 @@
 
 #### Citation
 ```python
-@misc{heidari2024computationefficient,
-      title={Computation-Efficient Era: A Comprehensive Survey of State Space Models in Medical Image Analysis}, 
-      author={Moein Heidari and Sina Ghorbani Kolahi and Sanaz Karimijafarbigloo and Bobby Azad and Afshin Bozorgpour and Soheila Hatami and Reza Azad and Ali Diba and Ulas Bagci and Dorit Merhof and Ilker Hacihaliloglu},
-      year={2024},
-      eprint={2406.03430},
-      archivePrefix={arXiv},
-      primaryClass={eess.IV}
+@article{heidari2024computation,
+  title={Computation-Efficient Era: A Comprehensive Survey of State Space Models in Medical Image Analysis},
+  author={Heidari, Moein and Ghorbani Kolahi, Sina and Karimijafarbigloo, Sanaz and Azad, Bobby and Bozorgpour, Afshin and Hatami, Soheila and Azad, Reza and Diba, Ali and Bagci, Ulas and Merhof, Dorit and others},
+  journal={arXiv e-prints},
+  pages={arXiv--2406},
+  year={2024}
 }
 ```
 
