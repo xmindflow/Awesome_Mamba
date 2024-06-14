@@ -71,6 +71,7 @@
   
 ## Architecture Redesign
 
+- [Transformers are SSMs: Generalized Models and Efficient Algorithms Through Structured State Space Duality](https://arxiv.org/abs/2405.21060) [[Github](https://github.com/state-spaces/mamba)]
 - [Mamba: Linear-time sequence modeling with selective state spaces](https://arxiv.org/abs/2312.00752) [[Github](https://github.com/state-spaces/mamba)]
 - [Transformers are SSMs: Generalized Models and Efficient Algorithms Through Structured State Space Duality](https://arxiv.org/abs/2405.21060) [[Github](https://github.com/state-spaces/mamba)]
 - [Locating and Editing Factual Associations in Mamba](https://www.arxiv.org/abs/2404.03646) [[Github](https://github.com/arnab-api/romba)]
