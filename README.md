@@ -166,6 +166,7 @@
 - [I2I-Mamba: Multi-modal Medical Image Synthesis via Selective State Space Modeling](https://arxiv.org/abs/2405.14022) [[GitHub](https://github.com/icon-lab/I2I-Mamba)]
   
 ## Image Segmentation
+- [UU-Mamba: Uncertainty-aware U-Mamba for Cardiac Image Segmentation](https://arxiv.org/abs/2405.17496) [[Github](https://github.com/tiffany9056/UU-Mamba)]
 - [Sigma: Siamese Mamba Network for Multi-Modal Semantic Segmentation](https://arxiv.org/abs/2404.04256) [[Github](https://github.com/zifuwan/Sigma)]
 
 ## Reinforcement Learning
