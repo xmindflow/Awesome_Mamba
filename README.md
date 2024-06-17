@@ -167,7 +167,7 @@
 - [MUCM-Net: A Mamba Powered UCM-Net for Skin Lesion Segmentation](https://arxiv.org/abs/2405.15925) [[Github](https://github.com/chunyuyuan/MUCM-Net)]
 - [Cardiovascular Disease Detection from Multi-View Chest X-rays with BI-Mamba](https://arxiv.org/abs/2405.18533v1)
 - [Convolution and Attention-Free Mamba-based Cardiac Image Segmentation](https://arxiv.org/abs/2406.05786)
-- [AC-MAMBASEG: An adaptive convolution and Mamba-based architecture for enhanced skin lesion segmentation](https://arxiv.org/abs/2405.03011) [[Github (https://github.com/vietthanh2710/AC-MambaSeg)]
+- [AC-MAMBASEG: An adaptive convolution and Mamba-based architecture for enhanced skin lesion segmentation](https://arxiv.org/abs/2405.03011) [[Github](https://github.com/vietthanh2710/AC-MambaSeg)]
 - [SAM-VMNet: Deep Neural Networks For Coronary Angiography Vessel Segmentation](https://arxiv.org/abs/2406.00492)
 - [MHS-VM: Multi-Head Scanning in Parallel Subspaces for Vision Mamba](https://arxiv.org/abs/2406.05992v1)[[Github](https://github.com/PixDeep/MHS-VM/tree/main)]
   
