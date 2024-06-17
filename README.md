@@ -164,6 +164,12 @@
 - [VM-DDPM: Vision Mamba Diffusion for Medical Image Synthesis](https://arxiv.org/abs/2405.05667)
 - [HC-Mamba: Vision MAMBA with Hybrid Convolutional Techniques for Medical Image Segmentation](https://arxiv.org/abs/2405.05007)
 - [I2I-Mamba: Multi-modal Medical Image Synthesis via Selective State Space Modeling](https://arxiv.org/abs/2405.14022) [[GitHub](https://github.com/icon-lab/I2I-Mamba)]
+- [MUCM-Net: A Mamba Powered UCM-Net for Skin Lesion Segmentation](https://arxiv.org/abs/2405.15925) [[Github](https://github.com/chunyuyuan/MUCM-Net)]
+- [Cardiovascular Disease Detection from Multi-View Chest X-rays with BI-Mamba](https://arxiv.org/abs/2405.18533v1)
+- [Convolution and Attention-Free Mamba-based Cardiac Image Segmentation](https://arxiv.org/abs/2406.05786)
+- [AC-MAMBASEG: An adaptive convolution and Mamba-based architecture for enhanced skin lesion segmentation](https://arxiv.org/abs/2405.03011) [[Github (https://github.com/vietthanh2710/AC-MambaSeg)]
+- [SAM-VMNet: Deep Neural Networks For Coronary Angiography Vessel Segmentation](https://arxiv.org/abs/2406.00492)
+- [MHS-VM: Multi-Head Scanning in Parallel Subspaces for Vision Mamba](https://arxiv.org/abs/2406.05992v1)[[Github](https://github.com/PixDeep/MHS-VM/tree/main)]
   
 ## Image Segmentation
 - [UU-Mamba: Uncertainty-aware U-Mamba for Cardiac Image Segmentation](https://arxiv.org/abs/2405.17496) [[Github](https://github.com/tiffany9056/UU-Mamba)]
