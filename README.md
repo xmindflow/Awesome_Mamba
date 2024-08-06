@@ -183,6 +183,7 @@
 - [RankMamba Benchmarking Mamba's Document Ranking Performance in the Era of Transformers](https://arxiv.org/abs/2403.18276v1) [[Github](https://github.com/zhichaoxu-shufe/rankmamba)]
 - [Densemamba: State space models with dense hidden connection for efficient large language models](https://arxiv.org/abs/2403.00818v2) [[Github](https://github.com/wailordhe/densessm)]
 - [Is Mamba Capable of In-Context Learning?](https://arxiv.org/abs/2402.03170v1)
+- [BioMamba: A Pre-trained Biomedical Language Representation Model Leveraging Mamba](https://arxiv.org/abs/2408.02600)
 
 ## 3D Recognition
 - [Gamba: Marry Gaussian Splatting with Mamba for single view 3D reconstruction](https://arxiv.org/abs/2403.18795v2)
