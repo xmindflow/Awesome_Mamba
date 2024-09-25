@@ -132,6 +132,7 @@
 - [DiM: Diffusion Mamba for Efficient High-Resolution Image Synthesis](https://arxiv.org/abs/2405.14224) [[Github](https://github.com/tyshiwo1/DiM-DiffusionMamba/)]
 
 ## Medical Imaging
+- [DenoMamba: A fused state-space model for low-dose CT denoising](https://www.arxiv.org/abs/2409.13094) [[Github](https://github.com/icon-lab/DenoMamba)]
 - [Vim4Path: Self-Supervised Vision Mamba for Histopathology Images](https://arxiv.org/abs/2404.13222) [[Github](https://github.com/AtlasAnalyticsLab/Vim4Path)]
 - [VMambaMorph: a Visual Mamba-based Framework with Cross-Scan Module for Deformable 3D Image Registration](https://arxiv.org/abs/2404.05105) [[Github](https://github.com/ziyangwang007/VMambaMorph)]
 - [UltraLight VM-UNet: Parallel Vision Mamba Significantly Reduces Parameters for Skin Lesion Segmentation](https://arxiv.org/abs/2403.20035v1) [[Github](https://github.com/wurenkai/UltraLight-VM-UNet)]
