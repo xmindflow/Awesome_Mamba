@@ -41,6 +41,8 @@
 - [GNN](#gnn)
 - [Point Cloud](#point-cloud)
 - [Tabular Data](#tabular-data)
+- [Other Applications](#other-applications)
+
 
 ## Surveys
 
@@ -53,7 +55,7 @@
 - [A Survey on Vision Mamba: Models, Applications and Challenges](https://arxiv.org/abs/2404.18861) [[Github](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models)]
   
 ## Preliminaries and State Space Models
-
+- [S7: Selective and Simplified State Space Layers for Sequence Modeling](https://arxiv.org/abs/2410.03464)
 - [HiPPO: Recurrent Memory with Optimal Polynomial Projections](https://arxiv.org/abs/2008.07669) [[Github](https://github.com/HazyResearch/hippo-code)]
 - [S4: Efficiently Modeling Long Sequences with Structured State Spaces](https://arxiv.org/abs/2111.00396v3) [[Github](https://github.com/state-spaces/s4)]
 - [H3: Hungry Hungry Hippos: Toward Language Modeling with State Space Models](https://arxiv.org/abs/2212.14052) [[Github](https://github.com/HazyResearch/H3)]
@@ -223,6 +225,10 @@ Interaction for Survival Prediction](https://arxiv.org/abs/2404.08027)
 
 ## Tabular Data
 - [MambaTab: A Simple Yet Effective Approach for Handling Tabular Data](https://arxiv.org/abs/2401.08867v1)
+- [Mambular: A Sequential Model for Tabular Deep Learning](https://arxiv.org/abs/2408.06291) [[Github](https://github.com/basf/mamba-tabular)]
+
+## Other Applications
+- [State Space Models for Event Cameras](https://arxiv.org/abs/2402.15584) [[Github](https://github.com/uzh-rpg/ssms_event_cameras)]
 
 ## Star History
 
