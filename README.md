@@ -97,6 +97,7 @@
 - [Mambabyte: Token-free selective state space model](https://arxiv.org/abs/2401.13660v2)
 - [Vmamba: Visual state space model](https://arxiv.org/abs/2401.10166v1) [[Github](https://github.com/mzeromiko/vmamba)]
 - [Vision mamba: Efficient visual representation learning with bidirectional state space model](https://arxiv.org/abs/2401.09417v2) [[Github](https://github.com/hustvl/vim)]
+- [Sparsified State-Space Models are Efficient Highway Networks](https://arxiv.org/abs/2505.20698) [[Github](https://github.com/woominsong/Simba)]
 
 ## Remote Sensing
 - [ChangeMamba: Remote Sensing Change Detection with Spatio-Temporal State Space Model](https://arxiv.org/abs/2404.03425v1) [[Github](https://github.com/chenhongruixuan/mambacd)]
@@ -230,6 +231,7 @@ Interaction for Survival Prediction](https://arxiv.org/abs/2404.08027)
 
 ## Other Applications
 - [State Space Models for Event Cameras](https://arxiv.org/abs/2402.15584) [[Github](https://github.com/uzh-rpg/ssms_event_cameras)]
+- [Mamba Drafters for Speculative Decoding](https://arxiv.org/abs/2506.01206)
 
 ## Star History
 
