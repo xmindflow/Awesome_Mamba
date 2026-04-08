@@ -190,6 +190,8 @@
 - [Is Mamba Capable of In-Context Learning?](https://arxiv.org/abs/2402.03170v1)
 - [BioMamba: A Pre-trained Biomedical Language Representation Model Leveraging Mamba](https://arxiv.org/abs/2408.02600)
 
+- [S₀ Tuning: Zero-Overhead Adaptation of Hybrid Recurrent-Attention Models](https://arxiv.org/abs/2604.01168) [[Github](https://github.com/JackYoung27/s0-tuning)]
+
 ## 3D Recognition
 - [Gamba: Marry Gaussian Splatting with Mamba for single view 3D reconstruction](https://arxiv.org/abs/2403.18795v2)
 - [Motion mamba: Efficient and long sequence motion generation with hierarchical and bidirectional selective ssm](https://arxiv.org/abs/2403.07487v3) [[Github](https://github.com/steve-zeyu-zhang/MotionMamba/)]
