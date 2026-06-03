@@ -35,7 +35,7 @@
 - [Image Segmentation](#image-segmentation)
 - [Reinforcement Learning](#reinforcement-learning)
 - [Natural Language Processing](#natural-language-processing)
-- [3D Recognition](#3d-recognition)
+- [3D Reconstruction & Generation](#3d-reconstruction-generation)
 - [Multi-Modal Understanding](#multi-modal-understanding)
 - [Time Series](#time-series)
 - [GNN](#gnn)
@@ -121,6 +121,7 @@
 ## Activity Recognition
 - [HARMamba: Efficient Wearable Sensor Human Activity Recognition Based on Bidirectional Selective SSM](https://arxiv.org/abs/2403.20183v1)
 - [VMRNN: Integrating Vision Mamba and LSTM for Efficient and Accurate Spatiotemporal Forecasting](https://arxiv.org/abs/2403.16536)[[Github](https://github.com/yyyujintang/VMRNN-PyTorch)]
+- [MV-SSM: Multi-View State Space Modeling for 3D Human Pose Estimation](https://arxiv.org/abs/2509.00649) [[Github](https://github.com/aviralchharia/MV-SSM)]
 
 ## Image Enhancement
 - [Aggregating Local and Global Features via Selective State Spaces Model for Efficient Image Deblurring](https://arxiv.org/abs/2403.20106)
@@ -190,9 +191,11 @@
 - [Is Mamba Capable of In-Context Learning?](https://arxiv.org/abs/2402.03170v1)
 - [BioMamba: A Pre-trained Biomedical Language Representation Model Leveraging Mamba](https://arxiv.org/abs/2408.02600)
 
-## 3D Recognition
+## 3D Reconstruction & Generation
 - [Gamba: Marry Gaussian Splatting with Mamba for single view 3D reconstruction](https://arxiv.org/abs/2403.18795v2)
 - [Motion mamba: Efficient and long sequence motion generation with hierarchical and bidirectional selective ssm](https://arxiv.org/abs/2403.07487v3) [[Github](https://github.com/steve-zeyu-zhang/MotionMamba/)]
+- [Hamba: Single-view 3D Hand Reconstruction with Graph-guided Bi-Scanning Mamba](https://arxiv.org/abs/2407.09646) [[Github](https://github.com/humansensinglab/Hamba)]
+- [Multi-view Consistent 3D Gaussian Head Avatars 'without' Multi-view Generation](https://arxiv.org/abs/2605.25220) [[Github](https://github.com/humansensinglab/MVCHead)]
 
 ## Multi-Modal Understanding
 - [Meteor: Mamba-based Traversal of Rationale for Large Language and Vision Models](https://arxiv.org/abs/2405.15574)[[Github](https://github.com/ByungKwanLee/Meteor)]
